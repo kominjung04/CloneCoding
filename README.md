@@ -13,4 +13,9 @@ Apple 공식 홈페이지를 이미지만 보고  HTML/CSS/JS로 클론코딩한
 - 웹 페이지 구현
 
 ## ⏱️구현 시간
-- 📝메뉴(1h 5m)
+- 메뉴(1h 5m)✅
+- iPhone box(35m)✅
+- Macbook Neo box
+- 홈페이지 collection
+- tv-gallery
+- ac,출처
